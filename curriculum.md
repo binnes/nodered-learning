@@ -41,7 +41,7 @@ This section should enable a developer to adopt Node-RED technology and apply th
 
 This section should enable a developer to move their Node-RED applications to a production environment, to run as a managed application / service within a modern Cloud native environment
 
-**Target Audience** : All Developers (content focus is for Cloud Native developer)
+**Target Audience** : All Developers (content focus is for Cloud Native developer)  
 **Barriers to entry** :
 
 - A good working knowledge of Node-RED
